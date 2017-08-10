@@ -14,7 +14,7 @@ import java.sql.Statement;
 import javax.swing.JOptionPane;
 import javax.swing.table.DefaultTableModel;
 
-
+//Hola!!
 public class ControlBD {
     /*::::DEFINICIÓN DE VARIABLES::::*/
     /*VARIABLES MySQL*/
